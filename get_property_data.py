@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 import time 
 from concurrent.futures import ThreadPoolExecutor
 from threading import Lock
-from PropertyDataScraper import PropertyDataScraper
+from utils.PropertyDataScraper import PropertyDataScraper
 
 start_time = time.perf_counter()
 
@@ -77,12 +77,12 @@ if __name__ == "__main__":
     set_cookie(url,session)
 
     # Read all the immo links stored in the input file
-    with open("ImmoLinks.txt", "r") as file:
+    with open("ImmoLinks1.txt", "r") as file:
         property_urls = [line.strip() for line in file]
 
     # Create file and write the first row 
     first_row = "Type Property,Locality,Subtype,Price,Type Sale,Number of Rooms,Living Area,Equipped Kitchen,Furnished,Open Fire,Terrace,Terrace Area,Garden,Garden Area,Land Surface,Number of Facades,Swimming Pool,Building State"
-    output_file = "PropertyData.csv"
+    output_file = "PropertyData2.csv"
     
     with open(output_file, "w") as out_handle:
         out_handle.write(first_row + "\n")
