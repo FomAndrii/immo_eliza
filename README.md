@@ -77,16 +77,11 @@ To start the program, run:
 1) get_property_links.py - for scraping links of properties by excluding few types in ImmoLinks.txt
 2) get_property_data_py - for accumulate dataset in PropertyData.csv
 
-python main.py
-
-Output: The seating arrangement will display in the console, indicating which colleagues have been assigned to each table and any remaining unoccupied seats.
-
 ## Deliverables
-**Source Code**: Complete, functional Python code, organized according to the project structure.
-**README**: A detailed README.md with installation and usage instructions, clear objectives, and a project summary.
-**Branching Strategy**: The main branch contains only essential features. Additional features or updates are on separate branches and merged via pull requests.
+
+
 
 ## Contributors
-List of team members:
+List of team members:  
 SUNIL Dhanya (https://www.linkedin.com/in/dhanyasunil/)  
 FOMICHOV Anfrii(https://www.linkedin.com/in/andrii-fomichov-73928642/)
