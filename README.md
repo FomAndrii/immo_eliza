@@ -1,9 +1,9 @@
 ## Immo_Eliza
-**Repository:** challenge-collecting-data
-**Type of Challenge:** Consolidation
-**Duration:** 4 days
-**Deadline:** 15/11/2024 16:30
-**Team challenge:** Group
+**Repository:** challenge-collecting-data  
+**Type of Challenge:** Consolidation  
+**Duration:** 4 days  
+**Deadline:** 15/11/2024 16:30  
+**Team challenge:** Group  
 
 ## Table of Contents
 1. [Project Description](#project-description)
