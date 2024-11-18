@@ -51,7 +51,7 @@ immo-eliza/
 ├──  1.immo_eliza_scraping.md       # the main task  from BeCode
 ├── README.md                       # Project overview and instructions
 ├── ImmoLinks.txt                   # Sctript to scrape links of properties by excluding few types
-├── PropertyData.csv               #  Script to scrape property information from a test set of 100 links
+├── PropertyData.csv                # Script to scrape property information from a test set of 100 links
 ├── PropertyDataScraper.py          # Script to scrape property information from a test set of 100 links
 ├── get_property_data.py            # Script to scrape property information from a test set of 100 links
 ├── get_property_links.py           # Script to scrape links of properties by excluding few types
@@ -88,5 +88,5 @@ Output: The seating arrangement will display in the console, indicating which co
 
 ## Contributors
 List of team members:
-SUNIL Dhanya (https://www.linkedin.com/in/dhanyasunil/)
+SUNIL Dhanya (https://www.linkedin.com/in/dhanyasunil/)  
 FOMICHOV Anfrii(https://www.linkedin.com/in/andrii-fomichov-73928642/)
